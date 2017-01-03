@@ -18,7 +18,7 @@
   sudo letsencrypt certonly -m メールアドレス --agree-tos --non-interactive $* --webroot -w ~/Kitura-LetsEncrypt/public -d ドメイン --test-cert
   ```
   証明書が生成されたパスと`main.swift`内のパスと同じか確認
-1. 証明書を取得
+1. 証明書を取得  
   ```
   sudo letsencrypt certonly -m メールアドレス --agree-tos --non-interactive $* --webroot -w ~/Kitura-LetsEncrypt/public -d ドメイン --force-renewal
   ```
