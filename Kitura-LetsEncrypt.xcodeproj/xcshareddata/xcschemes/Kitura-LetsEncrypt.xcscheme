@@ -14,7 +14,133 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "OBJ_13"
+               BlueprintIdentifier = "OBJ_130"
+               BuildableName = "LoggerAPI.framework"
+               BlueprintName = "LoggerAPI"
+               ReferencedContainer = "container:Kitura-LetsEncrypt.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "OBJ_137"
+               BuildableName = "Socket.framework"
+               BlueprintName = "Socket"
+               ReferencedContainer = "container:Kitura-LetsEncrypt.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "OBJ_146"
+               BuildableName = "SSLService.framework"
+               BlueprintName = "SSLService"
+               ReferencedContainer = "container:Kitura-LetsEncrypt.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "OBJ_155"
+               BuildableName = "CHTTPParser.framework"
+               BlueprintName = "CHTTPParser"
+               ReferencedContainer = "container:Kitura-LetsEncrypt.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "OBJ_170"
+               BuildableName = "KituraNet.framework"
+               BlueprintName = "KituraNet"
+               ReferencedContainer = "container:Kitura-LetsEncrypt.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "OBJ_219"
+               BuildableName = "SwiftyJSON.framework"
+               BlueprintName = "SwiftyJSON"
+               ReferencedContainer = "container:Kitura-LetsEncrypt.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "OBJ_227"
+               BuildableName = "KituraTemplateEngine.framework"
+               BlueprintName = "KituraTemplateEngine"
+               ReferencedContainer = "container:Kitura-LetsEncrypt.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "OBJ_234"
+               BuildableName = "Kitura.framework"
+               BlueprintName = "Kitura"
+               ReferencedContainer = "container:Kitura-LetsEncrypt.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "OBJ_296"
+               BuildableName = "HeliumLogger.framework"
+               BlueprintName = "HeliumLogger"
+               ReferencedContainer = "container:Kitura-LetsEncrypt.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "OBJ_305"
                BuildableName = "Kitura-LetsEncrypt"
                BlueprintName = "Kitura-LetsEncrypt"
                ReferencedContainer = "container:Kitura-LetsEncrypt.xcodeproj">
@@ -45,9 +171,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "OBJ_13"
-            BuildableName = "Kitura-LetsEncrypt"
-            BlueprintName = "Kitura-LetsEncrypt"
+            BlueprintIdentifier = "OBJ_130"
+            BuildableName = "LoggerAPI.framework"
+            BlueprintName = "LoggerAPI"
             ReferencedContainer = "container:Kitura-LetsEncrypt.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

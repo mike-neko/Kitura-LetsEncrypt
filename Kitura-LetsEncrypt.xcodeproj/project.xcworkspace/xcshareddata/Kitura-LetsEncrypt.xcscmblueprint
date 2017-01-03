@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7393F1012D85770F5F6CBB4594C60A09920595E3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "40635794C1929E96A4709153927459486D34FA7B" : 9223372036854775807,
+    "77528AA6C8B451D66547916CA3CB970C85CBD7B4" : 9223372036854775807,
+    "1A81AC7E588BE86E760603555BCE76FB0C611997" : 9223372036854775807,
+    "7393F1012D85770F5F6CBB4594C60A09920595E3" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7F9BF466-EAE5-4885-8B44-430BC8C04A15",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "40635794C1929E96A4709153927459486D34FA7B" : "Kitura-LetsEncrypt\/Packages\/Kitura-net-1.4.3\/",
+    "77528AA6C8B451D66547916CA3CB970C85CBD7B4" : "Kitura-LetsEncrypt\/Packages\/SSLService-0.12.10\/",
+    "1A81AC7E588BE86E760603555BCE76FB0C611997" : "Kitura-LetsEncrypt\/Packages\/Kitura-TemplateEngine-1.4.0\/",
+    "7393F1012D85770F5F6CBB4594C60A09920595E3" : "Kitura-LetsEncrypt\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Kitura-LetsEncrypt",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Kitura-LetsEncrypt.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/IBM-Swift\/Kitura-TemplateEngine.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1A81AC7E588BE86E760603555BCE76FB0C611997"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/IBM-Swift\/Kitura-net.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "40635794C1929E96A4709153927459486D34FA7B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mike-neko\/Kitura-LetsEncrypt.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7393F1012D85770F5F6CBB4594C60A09920595E3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/IBM-Swift\/BlueSSLService.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "77528AA6C8B451D66547916CA3CB970C85CBD7B4"
+    }
+  ]
+}
